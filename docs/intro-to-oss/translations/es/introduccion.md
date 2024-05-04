@@ -38,7 +38,7 @@ Este curso está dividido en varios capítulos, cada uno diseñado para cubrir u
 
 - **[¿Qué es Open Source?](que-es-open-source.md):** En este capítulo, exploraremos la definición de Open Source y su historia, brindándole una base sólida para comprender el contexto de la colaboración en Open Source.
 - **[¿Por qué Open Source?](por-que-open-source.md):** Profundizaremos en los beneficios del Open Source, incluido el acceso al conocimiento, la comunidad y el desarrollo de habilidades.
-- **[Herramientas para tener éxito](herramientas-para-tener-exito.md):** Este capítulo le presentará las herramientas esenciales para una colaboración exitosa en Open Source, incluidos GitHub, Git, CodeSee, VS Code y Discord.
+- **[Herramientas para tener éxito](herramientas-para-tener-exito.md):** Este capítulo le presentará las herramientas esenciales para una colaboración exitosa en Open Source, incluidos GitHub, Git, VS Code y Discord.
 - **[Cómo contribuir al Open Source](como-contribuir-al-open-source.md):** En este capítulo, analizaremos el proceso de encontrar proyectos en los que trabajar, enviar contribuciones, incorporarse a un nuevo proyecto y qué esperar después de enviar su contribución.
 - **[La salsa secreta](la-salsa-secreta.md):** Este capítulo revelará las estrategias y técnicas para comenzar, ganar terreno en sus contribuciones y desarrollar su currículum de Open Source.
 - **[Tipos de contribuciones](tipos-de-contribuciones.md):** Este capítulo discutirá los tipos de contribuciones en Open Source.
@@ -53,5 +53,3 @@ Utilice los ejemplos y demostraciones como punto de partida, pero no tema explor
 ## Comencemos 🚀
 
 Ahora que hemos preparado el escenario, ¡es hora de embarcarse en su viaje hacia el Open Source! En el [próximo capítulo](que-es-open-source.md), profundizaremos en la definición de Open Source y exploraremos su historia, sentando las bases para una comprensión más profunda de la colaboración en Open Source. ¡Empecemos!
-
-[Siguiente Sección ->]
