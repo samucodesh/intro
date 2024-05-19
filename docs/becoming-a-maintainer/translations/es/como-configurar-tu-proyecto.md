@@ -205,4 +205,4 @@ Lee la [documentación de GitHub](https://docs.github.com/en/issues/planning-and
 
 ![GIF de tableros de proyectos de GitHub](../../../_assets/gifs/create-github-project.gif)
 
-El [próximo capítulo](problemas-y-solicitudes-de-extracción.md) analizará el manejo de problemas y solicitudes de extracción abiertas.
+El [próximo capítulo](problemas-y-solicitudes-de-extraccion.md) analizará el manejo de problemas y solicitudes de extracción abiertas.
