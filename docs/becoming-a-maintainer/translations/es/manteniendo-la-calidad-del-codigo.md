@@ -2,11 +2,11 @@
 
 Mantener un proyecto con alta calidad de código y documentación actualizada es importante. Esto ayudará a los colaboradores a comprender el proyecto y facilitará que contribuyan.
 
-Este capítulo cubrirá formas de mantener la calidad del código y la documentación en su proyecto Open Source.
+Este capítulo cubrirá formas de mantener la calidad del código y la documentación en su proyecto de Open Source.
 
 ## Revisiones de código y contribuciones de alta calidad
 
-Las revisiones de código son esenciales para mantener la calidad del código en un proyecto Open Source. Debe tomarse el tiempo para revisar cada solicitud de extracción y asegurarse de que los cambios propuestos sean de alta calidad y no introduzcan errores o problemas nuevos. Recibirá solicitudes de extracción de colaboradores que son nuevos en el proyecto y es posible que no estén familiarizados con la base de código. Es importante ser paciente y brindar retroalimentación constructiva para ayudarlos a mejorar sus contribuciones.
+Las revisiones de código son esenciales para mantener la calidad del código en un proyecto de Open Source. Debe tomarse el tiempo para revisar cada solicitud de extracción y asegurarse de que los cambios propuestos sean de alta calidad y no introduzcan errores o problemas nuevos. Recibirá solicitudes de extracción de colaboradores que son nuevos en el proyecto y es posible que no estén familiarizados con la base de código. Es importante ser paciente y brindar retroalimentación constructiva para ayudarlos a mejorar sus contribuciones.
 
 Las siguientes secciones cubrirán algunas de las mejores prácticas para realizar revisiones de código y garantizar contribuciones de alta calidad.
 
@@ -68,7 +68,7 @@ Puede obtener más información sobre las reglas de protección de ramas en la [
 
 ## Mantenimiento de la documentación del proyecto
 
-La documentación es una parte esencial del mantenimiento de un proyecto Open Source. Ayuda a los colaboradores a comprender el proyecto y facilita que contribuyan. Por lo tanto, es importante mantener la documentación actualizada y asegurarse de que refleje el estado actual del proyecto.
+La documentación es una parte esencial del mantenimiento de un proyecto de Open Source. Ayuda a los colaboradores a comprender el proyecto y facilita que contribuyan. Por lo tanto, es importante mantener la documentación actualizada y asegurarse de que refleje el estado actual del proyecto.
 
 Se recomienda revisar regularmente la documentación de su proyecto para asegurarse de que esté actualizada y sea precisa. Puede establecer un cronograma para una vez al mes para revisar manualmente la documentación de su proyecto. Al revisar la documentación, busque formas de mejorarla y hacer que sea más fácil para los colaboradores comprender el proyecto. Piense en los momentos en que un nuevo colaborador tuvo problemas para comprender el proyecto y actualice la documentación para que sea más fácil de entender.
 
