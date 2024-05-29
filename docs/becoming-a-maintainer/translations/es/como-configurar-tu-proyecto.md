@@ -1,10 +1,10 @@
-# Cómo configurar tu proyecto Open Source
+# Cómo configurar tu proyecto de Open Source
 
-Hay muchas cosas a considerar al configurar tu proyecto Open Source. En esta parte del curso, revisaremos los componentes clave que todo proyecto necesita para tener éxito.
+Hay muchas cosas a considerar al configurar tu proyecto de Open Source. En esta parte del curso, revisaremos los componentes clave que todos los proyectos necesitan para tener éxito.
 
 ## README detallado
 
-Un archivo README contiene una introducción a tu proyecto Open Source. Un buen README debe ser claro, conciso, actualizado y detallado. Este archivo se encuentra en tu directorio raíz y sirve como la primera impresión para tus colaboradores.
+Un archivo README contiene una introducción a tu proyecto de Open Source. Un buen README debe ser claro, conciso, actualizado y detallado. Este archivo se encuentra en tu directorio raíz y sirve como la primera impresión para tus colaboradores.
 
 Aquí hay algunas cosas a considerar dentro de tu README:
 
@@ -47,13 +47,13 @@ Si tu proyecto es más grande, considera tener un sitio de documentación separa
 
 ## Licencia de Open Source Software
 
-Debes saber que un proyecto Open Source sin una licencia no está disponible para que nadie lo use y lo distribuya. Echa un vistazo a estas explicaciones sobre [El lado legal del Open Source](https://opensource.guide/legal/) en Open Source Guides:
+Debes saber que un proyecto de Open Source sin una licencia no está disponible para que nadie lo use y lo distribuya. Echa un vistazo a estas explicaciones sobre [El lado legal del Open Source](https://opensource.guide/legal/) en Open Source Guides:
 
 > Hacer que tu proyecto de GitHub sea público no es lo mismo que licenciar tu proyecto. Los proyectos públicos están cubiertos por [los Términos de servicio de GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), que permite a otros ver y bifurcar tu proyecto, pero tu trabajo de otra manera no viene con ningún permiso.
 >
 > Si quieres que otros usen, distribuyan, modifiquen o contribuyan a tu proyecto, debes incluir una licencia Open Source. Por ejemplo, alguien no puede utilizar legalmente ninguna parte de tu proyecto de GitHub en su código, incluso si es público, a menos que explícitamente le des el derecho a hacerlo.
 
-Por lo tanto, cada proyecto Open Source debe tener una licencia escrita en un archivo LICENSE para otorgar más derechos a otros usuarios. Este archivo generalmente se encuentra en el directorio raíz para que todos puedan acceder a él fácilmente.
+Por lo tanto, cada proyecto de Open Source debe tener una licencia escrita en un archivo LICENSE para otorgar más derechos a otros usuarios. Este archivo generalmente se encuentra en el directorio raíz para que todos puedan acceder a él fácilmente.
 
 ### Elegir una licencia
 
@@ -151,8 +151,8 @@ Hay dos formas de crear plantillas de problema en GitHub.
 Para crear plantillas de problema usando el generador de plantillas de GitHub, deberás:
 
 - Ir a la configuración de tu proyecto,
-- Navegar a la sección "Características",
-- Haz clic en "Configurar plantillas" debajo de "Problemas".
+- Navegar a la sección "Features",
+- Haz clic en "Set up templates" debajo de "Issues".
 
 Puedes seguir la [guía detallada](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates) en la documentación de GitHub para crear una.
 
