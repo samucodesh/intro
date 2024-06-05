@@ -20,7 +20,7 @@ At OpenSauced, we aim to empower contributors, maintainers, and teams in open so
 
 This course is designed to equip you with the skills and knowledge you need to contribute to open source projects. It offers engaging exercises to help you begin your journey towards becoming a successful contributor, and even provides an opportunity to get your first pull request merged.
 
-**Head to our [Intro to Open Source](./intro-to-oss/README.md) course to start your contributing learning journey!**
+**Head to our [Intro to Open Source](./intro-to-oss/translations/es/README.md) course to start your contributing learning journey!**
 
 ### Becoming a Maintainer
 
