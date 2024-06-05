@@ -1,10 +1,9 @@
 - [Página de inicio](../../../README.md)
 - [Empezar](../../../intro-to-oss/translations/es/)
 - Cursos
-  - [Intro to Open Source](/intro-to-oss/README.md)
+  - [Intro to Open Source](/intro-to-oss/translations/es/README.md)
   - [Becoming a Maintainer](/becoming-a-maintainer/README.md)
 - [⭐ Repositorio Estrella](https://github.com/open-sauced/intro)
 - Idiomas
-  - [:us: Inglés ](../../../intro-to-oss/)
-  - [:fr: Francés ](../../../intro-to-oss/translations/fr/)
-  - [:es: Español ](../../../intro-to-oss/translations/es/)
+  - [:us: Inglés ](https://intro.opensauced.pizza/#/intro-to-oss/README)
+  - [Empezar](../../../intro-to-oss/translations/es/)
