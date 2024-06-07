@@ -1,8 +1,8 @@
 # Entendiendo el rol de un mantenedor de Open Source
 
-Ser un mantenedor de Open Source puede ser una experiencia muy gratificante y recompensante. Pero se necesita mucho trabajo para mantener un proyecto Open Source. Tendrás muchas responsabilidades como mantenedor, incluyendo ser un contribuidor, líder, mentor y administrador de la comunidad.
+Ser un mantenedor de Open Source puede ser una experiencia muy gratificante y recompensante. Pero se necesita mucho trabajo para mantener un proyecto de Open Source. Tendrás muchas responsabilidades como mantenedor, incluyendo ser un contribuidor, líder, mentor y administrador de la comunidad.
 
-Este curso te proporcionará una descripción general completa del rol de un mantenedor, incluyendo información sobre las tareas diarias, las responsabilidades a largo plazo y el impacto general de un mantenedor en un proyecto Open Source.
+Este curso te proporcionará una descripción general completa del rol de un mantenedor, incluyendo información sobre las tareas diarias, las responsabilidades a largo plazo y el impacto general de un mantenedor en un proyecto de Open Source.
 
 ## ¿Qué es un mantenedor de Open Source?
 
@@ -54,7 +54,7 @@ Al identificar posibles nuevos mantenedores, busca colaboradores que hayan estad
 
 ### Tratar con la soledad
 
-Mantener un proyecto Open Source puede ser desafiante y abrumador, y a veces se siente solitario y aislado. La mayoría de los colaboradores vendrán y se irán, y tú todavía te quedas manteniendo el proyecto solo o con un pequeño grupo de personas. Sin embargo, es esencial que no pases por este viaje solo.
+Mantener un proyecto de Open Source puede ser desafiante y abrumador, y a veces se siente solitario y aislado. La mayoría de los colaboradores vendrán y se irán, y tú todavía te quedas manteniendo el proyecto solo o con un pequeño grupo de personas. Sin embargo, es esencial que no pases por este viaje solo.
 
 Conectarte con otros mantenedores de varios proyectos  Open Source es altamente recomendable para que puedas compartir tus desafíos, sentimientos y experiencias. Los compañeros mantenedores pueden relacionarse con las dificultades que estás enfrentando y ofrecer sugerencias sobre cómo mejorar tu proyecto y comunidad. Al comunicarte con otros en situaciones similares, puedes crecer, aprender y apoyarse mutuamente.
 
@@ -80,14 +80,14 @@ Para las pruebas automatizadas, puedes configurar un conjunto de pruebas automat
 
 ### Documentación
 
-Un buen proyecto Open Source tendrá un conjunto completo de documentación para que todos los usuarios sepan cómo ejecutar y mantener el proyecto. En el README de tu proyecto, querrás tener una descripción general básica del proyecto, junto con cómo configurarlo y cómo contribuir. A medida que tu proyecto crezca con el tiempo, debes mantener tu documentación actualizada.
+Un buen proyecto de Open Source tendrá un conjunto completo de documentación para que todos los usuarios sepan cómo ejecutar y mantener el proyecto. En el README de tu proyecto, querrás tener una descripción general básica del proyecto, junto con cómo configurarlo y cómo contribuir. A medida que tu proyecto crezca con el tiempo, debes mantener tu documentación actualizada.
 
 Si estás manteniendo un proyecto más grande, considera usar constructores de documentación como [Docusaurus](https://docusaurus.io/), [Starlight](https://starlight.astro.build/), o [docsify](https://docsify.js.org/#/) para alojar tu documentación. La documentación también incluye escribir tutoriales, crear diagramas o crear guías detalladas para el proyecto.
 
 ### Gestión de la comunidad
 
-Un componente vital de cualquier proyecto Open Source es su comunidad. Construir una comunidad sólida puede ayudar a acelerar el crecimiento de tu proyecto Open Source. A medida que nuevos colaboradores descubran y comiencen a contribuir a tu proyecto, querrás crear espacios para la comunicación y la colaboración.
+Un componente vital de cualquier proyecto de Open Source es su comunidad. Construir una comunidad sólida puede ayudar a acelerar el crecimiento de tu proyecto de Open Source. A medida que nuevos colaboradores descubran y comiencen a contribuir a tu proyecto, querrás crear espacios para la comunicación y la colaboración.
 
 Si tu proyecto está en GitHub, puedes usar [GitHub Discussions](https://docs.github.com/en/discussions) como una forma para que los colaboradores publiquen preguntas y faciliten conversaciones. Considera crear comunidades en Discord o Slack y organizar horas de oficina u otros eventos como X Spaces para fomentar la participación. En algún momento, a medida que crezcas tu comunidad, querrás reclutar moderadores para ayudar a mantener el entorno saludable que estableciste.
 
-El [próximo capítulo](como-configurar-tu-proyecto.md) te enseñará cómo configurar un proyecto Open Source.
+El [próximo capítulo](como-configurar-tu-proyecto.md) te enseñará cómo configurar un proyecto de Open Source.
