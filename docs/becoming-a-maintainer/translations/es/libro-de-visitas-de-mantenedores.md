@@ -1,4 +1,4 @@
-# Libro de visitas de  mantenedores
+# Libro de visitas de mantenedores
 
 Felicidades por terminar el curso de Conviértete en Mantenedor con OpenSauced. Bienvenido a nuestro libro de visitas de mantenedores, donde puedes compartir tu primer proyecto con nosotros!
 
