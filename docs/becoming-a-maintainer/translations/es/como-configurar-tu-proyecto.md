@@ -160,7 +160,7 @@ Puedes seguir la [guía detallada](https://docs.github.com/en/communities/using-
 
 #### 2. Usando archivos YAML
 
-También puedes crear plantillas de problema personalizadas usando la sintaxis de  YAML:
+También puedes crear plantillas de problema personalizadas usando la sintaxis de YAML:
 
 - Crea una carpeta llamada `.github` en el directorio raíz.
 - Agrega una carpeta llamada `ISSUE_TEMPLATE` dentro de la carpeta `.github`.
