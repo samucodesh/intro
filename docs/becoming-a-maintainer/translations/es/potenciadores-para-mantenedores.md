@@ -4,7 +4,7 @@ Los mantenedores tienen una variedad de tareas diarias. A menudo se enfrentan a 
 
 La buena noticia es que algunas herramientas y funciones en GitHub te permiten automatizar tareas, lo que puede ayudarte a ahorrar tiempo y hacer tu trabajo más ligero. En este capítulo, hablaremos sobre estos potenciadores de mantenedores de GitHub.
 
-## GitHub Actions
+## Acciones de GitHub
 
 Digamos que tu proyecto recibe más problemas y solicitudes de extracción nuevos a diario. Quieres darle la bienvenida a cada nuevo colaborador, agradecerles por sus contribuciones y decirles que vas a priorizar sus problemas y revisar sus solicitudes de extracción. Quieres hacer más, pero no tienes tiempo para responderles porque todavía estás ocupado con otra cosa.
 
@@ -14,7 +14,7 @@ Configurar acciones para automatizar estas tareas te ahorrará tiempo respondien
 
 ### Tipos de acciones
 
-Hay muchos tipos de acciones que puedes configurar para tu proyecto, dependiendo de lo que necesites. A continuación, se presentan algunas GitHub Actions que normalmente encuentras en los repositorios:
+Hay muchos tipos de acciones que puedes configurar para tu proyecto, dependiendo de lo que necesites. A continuación, se presentan algunas Acciones de GitHub que normalmente encuentras en los repositorios:
 
 #### Linter
 
@@ -34,28 +34,28 @@ El análisis de código es una herramienta para detectar vulnerabilidades de seg
 
 #### Pruebas
 
-Configurar acciones para ejecutar pruebas es útil para garantizar que tu aplicación funciona y se desempeña como debería y que no se producen regresiones con los nuevos cambios. [Cypress GitHub Action](https://docs.cypress.io/guides/continuous-integration/github-actions) es uno de los ejemplos de acciones para pruebas E2E. También puedes consultar [Is Website Vulnerable](https://github.com/marketplace/actions/is-website-vulnerable) para encontrar vulnerabilidades de seguridad conocidas públicamente en los sitios web de las bibliotecas de JavaScript o [Step CI Action](https://github.com/marketplace/actions/step-ci-action) para el control de calidad de la API.
+Configurar acciones para ejecutar pruebas es útil para garantizar que tu aplicación funciona y se desempeña como debería y que no se producen regresiones con los nuevos cambios. [Acción de GitHub para Cypress](https://docs.cypress.io/guides/continuous-integration/github-actions) es uno de los ejemplos de acciones para pruebas E2E. También puedes consultar [Is Website Vulnerable](https://github.com/marketplace/actions/is-website-vulnerable) para encontrar vulnerabilidades de seguridad conocidas públicamente en los sitios web de las bibliotecas de JavaScript o [Step CI Action](https://github.com/marketplace/actions/step-ci-action) para el control de calidad de la API.
 
 ### Creación y personalización de acciones
 
-Puedes buscar GitHub Actions disponibles en el [GitHub Marketplace](https://github.com/marketplace?type=actions). Pero si no puedes encontrar la que necesitas, puedes crear o personalizar tus propias acciones a partir de las GitHub Actions existentes.
+Puedes buscar Acciones de GitHub disponibles en el [GitHub Marketplace](https://github.com/marketplace?type=actions). Pero si no puedes encontrar la que necesitas, puedes crear o personalizar tus propias acciones a partir de las Acciones de GitHub existentes.
 
 Brian Douglas, el fundador de OpenSauced, creó [Take Action](https://github.com/marketplace/actions/contributor-takes-action). Esta acción permite a los contribuidores asignarse a sí mismos a un problema escribiendo el comando `.take` en el comentario del problema, lo que permite a los mantenedores centrarse en tareas más importantes que la asignación de problemas.
 
 Sin embargo, queremos que los contribuidores solo puedan tomar problemas que hayan pasado nuestra priorización o que no estén destinados a ser trabajados por el equipo central. Por lo tanto, creamos la [Acción de Priorización](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml) que bloqueará Take Action cuando exista una etiqueta `needs triage` o `core team work`.
 
-Puedes leer más sobre las GitHub Actions y cómo crear una en [la documentación oficial](https://github.com/features/actions).
+Puedes leer más sobre las Acciones de GitHub y cómo crear una en [la documentación oficial](https://github.com/features/actions).
 
-Aquí tienes algunos recursos adicionales para ofrecerte más información sobre las GitHub Actions y cómo configurar una:
+Aquí tienes algunos recursos adicionales para ofrecerte más información sobre las Acciones de GitHub y cómo configurar una:
 
-- [GitHub Actions: El mejor amigo de un mantenedor](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n)
+- [Acciones de GitHub: El mejor amigo de un mantenedor](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n)
 - [Configuración de tu primera acción de GitHub](https://dev.to/opensauced/setting-up-your-first-github-action-for-specific-contributions-33a4)
 
 ## Pipelines de CI/CD
 
-Aprovechar las GitHub Actions para llevar la Integración Continua / Entrega o Despliegue Continuos (CI/CD) a tu flujo de trabajo directamente en tu repositorio te permitirá ejecutar código, probar, construir y entregar o desplegar software con flujos de trabajo simples y seguros. Automatizar estas tareas acelerará tu proceso de despliegue.
+Aprovechar las Acciones de GitHub para llevar la Integración Continua / Entrega o Despliegue Continuos (CI/CD) a tu flujo de trabajo directamente en tu repositorio te permitirá ejecutar código, probar, construir y entregar o desplegar software con flujos de trabajo simples y seguros. Automatizar estas tareas acelerará tu proceso de despliegue.
 
-Utilizar Git, GitHub y GitHub Actions para construir un Pipeline de CI/CD debería darte confianza en tu código.
+Utilizar Git, GitHub y Acciones de GitHub para construir un Pipeline de CI/CD debería darte confianza en tu código.
 
 ### Entrega continua vs. despliegue continuo
 
@@ -67,12 +67,12 @@ De los recursos oficiales de [GitHub](https://resources.github.com/ci-cd/):
 
 Un proyecto generalmente comienza con la entrega continua e integra más pruebas automatizadas con el tiempo.
 
-### Construir un Pipeline de CI/CD con GitHub Actions
+### Construir un Pipeline de CI/CD con Acciones de GitHub
 
-A continuación, se presentan algunos recursos útiles para ayudarte a construir un Pipeline de CI/CD con GitHub Actions:
+A continuación, se presentan algunos recursos útiles para ayudarte a construir un Pipeline de CI/CD con Acciones de GitHub:
 
 - [Documentación de GitHub: La solución CI/CD completa](https://github.com/solutions/ci-cd/)
-- [Cómo construir un Pipeline de CI/CD con GitHub Actions en cuatro sencillos pasos](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
+- [Cómo construir un Pipeline de CI/CD con Acciones de GitHub en cuatro sencillos pasos](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 
 ## GitHub CLI
 
