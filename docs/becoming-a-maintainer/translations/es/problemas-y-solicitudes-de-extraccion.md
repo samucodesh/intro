@@ -24,11 +24,11 @@ Para las correcciones críticas de errores, es mejor que los miembros del equipo
 
 Un error que no afecta la funcionalidad de tu aplicación no se considera crítico. Puedes categorizar los errores como de nivel medio cuando puedes corregirlos después de desplegar un lanzamiento próximo. Aquellos que puedas o no incluir en el desarrollo se consideran errores pequeños.
 
-Puedes abrir estos problemas para que cualquiera trabaje en ellos. Algunos de estos problemas pueden ser tan pequeños que serían una buena oportunidad para un nuevo colaborador. Etiqueta el problema con un `buen primer problema` o `solo para principiantes` en esta situación.
+Puedes abrir estos problemas para que cualquiera trabaje en ellos. Algunos de estos problemas pueden ser tan pequeños que serían una buena oportunidad para un nuevo colaborador. Etiqueta el problema con un `good first issues` o `help wanted` en esta situación.
 
 ### Problemas etiquetados como características
 
-Al priorizar las solicitudes de características, debes asegurarte de que sean adecuadas para tu proyecto y que te interese agregarlas. Comunícate con el autor original del problema para ver si quiere trabajar en él. Si están de acuerdo, continúa y asígnale ese problema. De lo contrario, agrega una etiqueta `se necesita ayuda` o `aceptando PR`.
+Al priorizar las solicitudes de características, debes asegurarte de que sean adecuadas para tu proyecto y que te interese agregarlas. Comunícate con el autor original del problema para ver si quiere trabajar en él. Si están de acuerdo, continúa y asígnale ese problema. De lo contrario, agrega una etiqueta `help wanted` o `accepting PRs`.
 
 Supongamos que la función es adecuada para el proyecto pero es compleja. Considera trabajar en ella tú mismo o hacer que un miembro del equipo central la asigne. Las funciones grandes que afectan muchos archivos y partes móviles de tu aplicación deben ser manejadas por alguien experimentado con la base de código y no crearán más problemas.
 
@@ -42,7 +42,7 @@ Si una solicitud de característica no suena como una buena opción para tu proy
 
 ### Problemas etiquetados como documentación
 
-Si el problema tiene que ver con errores tipográficos o gramaticales menores, agrega una etiqueta `buen primer problema` para abrirlo a nuevos colaboradores. Si el problema es más complejo, deberás evaluar el nivel de prioridad y agregar una etiqueta `se necesita ayuda`. Además, en estas situaciones, es posible que debas obtener más información del autor original antes de abrirlo para la contribución.
+Si el problema tiene que ver con errores tipográficos o gramaticales menores, agrega una etiqueta `good first issues` para abrirlo a nuevos colaboradores. Si el problema es más complejo, deberás evaluar el nivel de prioridad y agregar una etiqueta `help wanted`. Además, en estas situaciones, es posible que debas obtener más información del autor original antes de abrirlo para la contribución.
 
 ### Problemas de spam
 
@@ -150,13 +150,13 @@ Para obtener más información sobre cómo funciona la función Aspectos destaca
 
 Cuando tengas problemas y solicitudes de extracción entrantes, es esencial programar tiempo para priorizarlos y revisarlos. Diseña un cronograma regular que funcione para ti para priorizar los problemas de los colaboradores y proporcionar revisiones detalladas de las solicitudes de extracción durante la semana.
 
-No debes sentirte presionado para responder a nuevos problemas o solicitudes de extracción abiertas de inmediato. Está bien si se dejan sin leer durante unos días. Si un colaborador te presiona para que revises o comentes un problema o una solicitud de extracción, responde cortésmente que lo harás cuando tengas tiempo. También puedes configurar tus propias [GitHub Actions](https://docs.github.com/en/actions) para automatizar las respuestas a nuevos problemas y solicitudes de extracción, haciendo saber a los colaboradores que lo harás cuando esté disponible. Puedes aprender cómo configurar uno en [este artículo](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n).
+No debes sentirte presionado para responder a nuevos problemas o solicitudes de extracción abiertas de inmediato. Está bien si se dejan sin leer durante unos días. Si un colaborador te presiona para que revises o comentes un problema o una solicitud de extracción, responde cortésmente que lo harás cuando tengas tiempo. También puedes configurar tus propias [Acciones de GitHub](https://docs.github.com/en/actions) para automatizar las respuestas a nuevos problemas y solicitudes de extracción, haciendo saber a los colaboradores que lo harás cuando esté disponible. Puedes aprender cómo configurar uno en [este artículo](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n).
 
 Si los colaboradores tienen inquietudes sobre el proyecto, debes crear un espacio seguro para que se sientan cómodos hablando sobre estos problemas. Si tienen inquietudes sobre el código o los aspectos de seguridad, no dudes en discutirlo en un problema abierto o incluso en privado a través de Discord o Slack.
 
 ## Priorización de tareas y cronogramas realistas
 
-Hacer malabares con todas las tareas para mantener un proyecto Open Source puede ser difícil a veces. Reserva tiempo cada semana para priorizar problemas y revisar el  backlog del proyecto para priorizar el trabajo que se debe realizar. Elige cuándo etiquetar problemas y solicitudes de extracción como alta prioridad. Realísticamente, siempre habrá problemas que deben considerarse de alta prioridad, mientras que puedes abordar los demás más adelante.
+Hacer malabares con todas las tareas para mantener un proyecto Open Source puede ser difícil a veces. Reserva tiempo cada semana para priorizar problemas y revisar el backlog del proyecto para priorizar el trabajo que se debe realizar. Elige cuándo etiquetar problemas y solicitudes de extracción como alta prioridad. Realísticamente, siempre habrá problemas que deben considerarse de alta prioridad, mientras que puedes abordar los demás más adelante.
 
 Al establecer cronogramas realistas, agrega unos días adicionales a tu estimación de trabajo. Si crees que un nuevo conjunto de funciones tardará un par de semanas, agrega una semana a cada semana. Los problemas surgen todo el tiempo en los proyectos. Por lo tanto, debes evitar limitarte a un plazo muy estricto cuando no fue realista en primer lugar.
 
