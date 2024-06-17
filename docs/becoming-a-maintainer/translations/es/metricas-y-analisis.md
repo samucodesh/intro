@@ -1,6 +1,6 @@
 # El poder de las métricas y el análisis para los nuevos mantenedores
 
-Comprender qué está sucediendo con su proyecto y sus colaboradores a medida que crece puede ser un desafío para los nuevos mantenedores. Piense en las métricas y el análisis como una brújula y un mapa en su viaje de mantenedor. Comprender las métricas para proyectos Open Source y su propio proyecto puede ayudarlo a establecer objetivos, identificar las necesidades del proyecto y comprender su comunidad. Este capítulo lo guiará a través de la comprensión, el aprovechamiento y la toma de decisiones basadas en estos conocimientos para crear un proyecto Open Source próspero.
+Comprender qué está sucediendo con su proyecto y sus colaboradores a medida que crece puede ser un desafío para los nuevos mantenedores. Piense en las métricas y el análisis como una brújula y un mapa en su viaje de mantenedor. Comprender las métricas para proyectos de Open Source y su propio proyecto puede ayudarlo a establecer objetivos, identificar las necesidades del proyecto y comprender su comunidad. Este capítulo lo guiará a través de la comprensión, el aprovechamiento y la toma de decisiones basadas en estos conocimientos para crear un proyecto de Open Source próspero.
 
 ## Comprender los tipos de métricas
 
@@ -16,7 +16,7 @@ Las métricas diversas ofrecen una imagen más completa de la salud de un proyec
 
 Establecer objetivos claros y alcanzables puede ayudarlo con la gestión del proyecto. puede ayudarlo con la gestión del proyecto. Sus objetivos pueden variar e incluir mejorar la calidad del código, expandir la comunidad o agilizar la resolución de problemas. Cuando establece objetivos específicos, está mejor preparado para tomar decisiones sobre priorización y uso de recursos (¡no olvide que el tiempo es un recurso!).
 
-Recuerde, los objetivos para su proyecto Open Source son definitivos. Evolucionarán a medida que el proyecto crezca. Las métricas pueden informar estos cambios, brindando información que revela nuevas oportunidades o desafíos. Por ejemplo, si un proyecto establece un objetivo inicial para aumentar la cantidad de colaboradores, pero luego descubre que el compromiso o la calidad están sufriendo, podría cambiar el enfoque hacia la mejora de los procesos de incorporación o la documentación.
+Recuerde, los objetivos para su proyecto de Open Source son definitivos. Evolucionarán a medida que el proyecto crezca. Las métricas pueden informar estos cambios, brindando información que revela nuevas oportunidades o desafíos. Por ejemplo, si un proyecto establece un objetivo inicial para aumentar la cantidad de colaboradores, pero luego descubre que el compromiso o la calidad están sufriendo, podría cambiar el enfoque hacia la mejora de los procesos de incorporación o la documentación.
 
 Los mantenedores deben revisar regularmente sus objetivos en el contexto de las métricas actuales del proyecto y la trayectoria más amplia. Esta adaptabilidad garantiza que el proyecto se mantenga alineado con las necesidades de su comunidad y su visión como mantenedor.
 
@@ -41,7 +41,7 @@ Elija métricas que se alineen con las prioridades de su proyecto. Por ejemplo, 
 - **Comparación**: use OpenSauced para establecer métricas actuales como puntos de referencia, estableciendo objetivos realistas para la mejora.
 - **Cronograma**: establezca un cronograma claro para lograr estos objetivos, creando un sentido de urgencia y dinamismo.
 
-## Comprender e interpretar datos de proyectos Open Source
+## Comprender e interpretar datos de proyectos de Open Source
 
 Comprender e interpretar datos nos ayuda a comprender y compartir la historia detrás de los números. Algunas formas de hacer esto incluyen:
 
