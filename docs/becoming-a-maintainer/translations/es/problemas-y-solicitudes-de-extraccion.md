@@ -156,7 +156,7 @@ Si los colaboradores tienen inquietudes sobre el proyecto, debes crear un espaci
 
 ## Priorización de tareas y cronogramas realistas
 
-Hacer malabares con todas las tareas para mantener un proyecto Open Source puede ser difícil a veces. Reserva tiempo cada semana para priorizar problemas y revisar el backlog del proyecto para priorizar el trabajo que se debe realizar. Elige cuándo etiquetar problemas y solicitudes de extracción como alta prioridad. Realísticamente, siempre habrá problemas que deben considerarse de alta prioridad, mientras que puedes abordar los demás más adelante.
+Hacer malabares con todas las tareas para mantener un proyecto de Open Source puede ser difícil a veces. Reserva tiempo cada semana para priorizar problemas y revisar el backlog del proyecto para priorizar el trabajo que se debe realizar. Elige cuándo etiquetar problemas y solicitudes de extracción como alta prioridad. Realísticamente, siempre habrá problemas que deben considerarse de alta prioridad, mientras que puedes abordar los demás más adelante.
 
 Al establecer cronogramas realistas, agrega unos días adicionales a tu estimación de trabajo. Si crees que un nuevo conjunto de funciones tardará un par de semanas, agrega una semana a cada semana. Los problemas surgen todo el tiempo en los proyectos. Por lo tanto, debes evitar limitarte a un plazo muy estricto cuando no fue realista en primer lugar.
 
