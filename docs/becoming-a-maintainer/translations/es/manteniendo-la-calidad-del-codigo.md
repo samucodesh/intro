@@ -50,7 +50,7 @@ Configurar pruebas puede ayudar a garantizar que las nuevas contribuciones no ro
 
 Si algunas pruebas en la nueva solicitud de extracción no pasan las comprobaciones, comuníquese con el colaborador y pídale que corrija las pruebas fallidas. A veces, el colaborador puede necesitar ayuda para comprender por qué las pruebas están fallando. En estos casos, debe trabajar con el colaborador para ayudarlo a comprender el problema y corregir las pruebas fallidas.
 
-Para obtener más información sobre las pruebas, consulte [esta sección](potenciadores-para-mantenedores.md#pruebas) en el capítulo "Potenciadores para mantenedores".
+Para obtener más información sobre las pruebas, consulte [esta sección](potenciadores-para-mantenedores#pruebas) en el capítulo "Potenciadores para mantenedores".
 
 ### Comprobación de la calidad del código
 
@@ -58,7 +58,7 @@ Es importante verificar la calidad del código y las buenas prácticas de ingeni
 
 Muchas herramientas pueden ayudarlo a verificar la calidad del código. Puede configurar la linting para su proyecto para asegurarse de que no haya errores de sintaxis o problemas de estilo. También puede configurar herramientas de análisis de código para verificar las vulnerabilidades de seguridad y otros problemas en la base de código.
 
-Para obtener más información sobre estas herramientas, consulte [esta sección](potenciadores-para-mantenedores#herramientas-de-análisis-de-código.md) en el capítulo "Potenciadores para mantenedores".
+Para obtener más información sobre estas herramientas, consulte [esta sección](potenciadores-para-mantenedores#herramientas-de-análisis-de-código) en el capítulo "Potenciadores para mantenedores".
 
 ### Reglas de protección de ramas
 
