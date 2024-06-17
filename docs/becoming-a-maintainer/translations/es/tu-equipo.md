@@ -1,6 +1,6 @@
 # Construyendo tu equipo de ensueño de Open Source
 
-Administrar un proyecto Open Source requiere una comunicación clara, empatía y comprensión técnica. Es posible que descubras que, inicialmente, puedes hacer todo o la mayor parte del trabajo por tu cuenta. ¡Eso está genial! Si quieres que tu proyecto crezca y prospere, cultivar un equipo diverso, motivado y efectivo a tu alrededor puede ayudarte a hacerlo. Este capítulo analiza cómo colaborar con tu equipo de manera efectiva y ofrece orientación sobre cómo identificar, incorporar y empoderar a tu escuadrón de Open Source.
+Administrar un proyecto de Open Source requiere una comunicación clara, empatía y comprensión técnica. Es posible que descubras que, inicialmente, puedes hacer todo o la mayor parte del trabajo por tu cuenta. ¡Eso está genial! Si quieres que tu proyecto crezca y prospere, cultivar un equipo diverso, motivado y efectivo a tu alrededor puede ayudarte a hacerlo. Este capítulo analiza cómo colaborar con tu equipo de manera efectiva y ofrece orientación sobre cómo identificar, incorporar y empoderar a tu escuadrón de Open Source.
 
 ## Tipos de equipos
 
