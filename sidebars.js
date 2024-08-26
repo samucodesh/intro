@@ -45,6 +45,17 @@ const sidebars = {
         ],
       },
     ],
+
+    esIntroToOSS: [
+      {
+        type: 'category',
+        label: 'Introducción al Open Source',
+        items: [
+          'intro-to-oss/translations/es/README-intro',
+          'intro-to-oss/translations/es/que-es-open-source',
+        ],
+      },
+    ],
   };
   
   export default sidebars;
