@@ -8,6 +8,7 @@ on:
 permissions:
   id-token: write
   pages: write
+  deployments: write
   contents: read # Required for actions/checkout@v4
 
 jobs:
@@ -35,5 +36,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
    
