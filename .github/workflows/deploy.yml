@@ -5,6 +5,10 @@ on:
     branches:
       - test-structure # Trigger on pushes to the 'test-structure' branch
 
+permissions:
+  id-token: write
+  contents: read # Required for actions/checkout@v4
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest 
