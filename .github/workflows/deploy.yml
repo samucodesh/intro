@@ -21,9 +21,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build
-        run: npm start
-
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
         with:
