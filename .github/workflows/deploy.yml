@@ -35,6 +35,4 @@ jobs:
         uses: actions/deploy-pages@v4
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./ # Deploy from the root of the artifact
-          publish_branch: gh-pages 
-          force_orphan: true
+   
