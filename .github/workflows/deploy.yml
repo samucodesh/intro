@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - test-structure # Trigger on pushes to the 'test-structure' branch
+      - test-url-deploy # Trigger on pushes to the 'test-url-deploy' branch
 
 permissions:
   id-token: write
@@ -32,9 +32,8 @@ jobs:
         with:
           name: github-pages
           path: ./ 
-
+          
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-   
+       
