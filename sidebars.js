@@ -53,6 +53,7 @@ const sidebars = {
         items: [
           'intro-to-oss/translations/es/README-intro',
           'intro-to-oss/translations/es/que-es-open-source',
+          'intro-to-oss/translations/es/por-que-open-source',
         ],
       },
     ],
