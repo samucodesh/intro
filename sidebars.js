@@ -59,6 +59,7 @@ const sidebars = {
           'intro-to-oss/translations/es/la-salsa-secreta',
           'intro-to-oss/translations/es/tipos-de-contribuciones',
           'intro-to-oss/translations/es/conclusion',
+          'intro-to-oss/translations/es/recursos-adicionales',
         ],
       },
     ],
