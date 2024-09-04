@@ -56,6 +56,7 @@ const sidebars = {
           'intro-to-oss/translations/es/por-que-open-source',
           'intro-to-oss/translations/es/herramientas-para-tener-exito',
           'intro-to-oss/translations/es/como-contribuir-al-open-source',
+          'intro-to-oss/translations/es/la-salsa-secreta',
         ],
       },
     ],
