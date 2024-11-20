@@ -428,6 +428,12 @@ Necesitará tener estas herramientas descargadas e instaladas en su máquina loc
 
    :::
 
+### Plantilla de PR Completada
+
+Aquí se muestra cómo luce una plantilla de solicitud de extracción (Pull Request) completada para el libro de visitas. Asegúrate de que la tuya se vea así, actualizada con tu información única.
+
+![Plantilla de Solicitud de extracción Completada](../../../_assets/images/completed-pr-template.png)
+
 ¡Felicitaciones por tu primera contribución! 🎉
 
 :::tip
