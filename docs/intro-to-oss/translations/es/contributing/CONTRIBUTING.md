@@ -19,7 +19,7 @@ Las contribuciones son siempre bienvenidas, sin importar lo grandes o pequeñas 
 
 - ¿Has detectado un error en alguno de nuestros cursos? ¿O tienes una idea para mejorar nuestros cursos y quieres agregar una sección o un capítulo a un curso?
 
-  Puedes crear un problema y completar nuestro formulario de problemas para abordarlo. Pero nuestros mantenedores necesitan clasificar el problema antes de que puedas trabajar en él. Si deseas trabajar en el problema que has presentado, por favor informa y etiqueta al equipo `@open-sauced/docs` en el comentario.
+  Puedes crear un Issue y completar nuestro formulario de Issues para abordarlo. Pero nuestros mantenedores necesitan clasificar el Issue antes de que puedas trabajar en él. Si deseas trabajar en el Issue que has presentado, por favor informa y etiqueta al equipo `@open-sauced/docs` en el comentario.
 
 Siempre puedes pedir ayuda en nuestra [Comunidad](https://github.com/open-sauced/intro/discussions) si te atascas mientras trabajas en tus cambios o necesitas aclaraciones.
 
@@ -35,7 +35,7 @@ Damos la bienvenida activamente a tus solicitudes de extracción. Sin embargo, a
 
 ### Enviando una Plantilla de Solicitud de Extracción
 
-1. Asegúrate de abordar un Issue en una sola solicitud de extracción.  Si trabajas en varios problemas, trabaja en ellos por separado y crea una solicitud de extracción para abordar cada Issue.
+1. Asegúrate de abordar un Issue en una sola solicitud de extracción.  Si trabajas en varios Issues, trabaja en ellos por separado y crea una solicitud de extracción para abordar cada Issue.
 
 2. Completar la plantilla de la solicitud de extracción. Asegúrate de **completar todas las secciones** y que tengas:
 
