@@ -1,7 +1,7 @@
 ---
 id: manteniendo-la-calidad-del-codigo
 title: "Cómo mantener la calidad del código y la documentación"
-sidebar_label: "Manteneniendo la calidad del código y la documentación"
+sidebar_label: "Manteniendo la calidad del código y la documentación"
 keywords: ["maintaining code quality", "maintaining code quality of open source projects", "maintaining documentation", "maintaining open source project documentation", "code reviews best practices", "ensuring high-quality contributions in open source", "open source maintainers", "Open Source", "Open Source Community"]
 ---
 
