@@ -64,6 +64,30 @@ const sidebars = {
         ],
       },
     ],
+
+    becomingAMaintainerES: [
+      {
+        type: 'category',
+        label: 'Conviértete en mantenedor',
+        items: [
+          'becoming-a-maintainer/translations/es/README',
+          'becoming-a-maintainer/translations/es/introduccion',
+          'becoming-a-maintainer/translations/es/como-configurar-tu-proyecto',
+          'becoming-a-maintainer/translations/es/problemas-y-solicitudes-de-extraccion',
+          'becoming-a-maintainer/translations/es/comunicacion-y-colaboracion',
+          'becoming-a-maintainer/translations/es/manteniendo-la-calidad-del-codigo',
+          'becoming-a-maintainer/translations/es/construyendo-comunidad',
+          'becoming-a-maintainer/translations/es/potenciadores-para-mantenedores',
+          'becoming-a-maintainer/translations/es/tu-equipo',
+          'becoming-a-maintainer/translations/es/metricas-y-analisis',
+          'becoming-a-maintainer/translations/es/ponerse-practico',
+          'becoming-a-maintainer/translations/es/libro-de-visitas-de-mantenedores',
+          'becoming-a-maintainer/translations/es/recursos-adicionales',
+          'becoming-a-maintainer/translations/es/glosario',
+        ],
+      },
+    ],
   };
   
+
   export default sidebars;
